@@ -22,9 +22,9 @@ Challenges:
 */
 
 task hello {
-    description "Hey student! Run this one :D"
-    group "Our demo"
+    description "Hey there! Run this one :D"
+    group "Our demo gradle"
     doLast {
-        println "Hello World!"
+        println "Hello Garry!"
     }
 }

@@ -99,9 +99,9 @@ much faster the second run is.
 
 */
 
-task helloWorld {
+task helloGarry {
     doLast{
-        println "Hello, World!"        
+        println "Hello, Garry!"        
     }
 }
 
